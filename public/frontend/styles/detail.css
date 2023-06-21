@@ -1,0 +1,42 @@
+.nav-link {
+  color: #000;
+  text-decoration:none
+}
+
+.navbar-nav {
+  font-size: 110%;
+  color: #071C4D !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #071C4D;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #071C4D !important;
+}
+
+.btn-login {
+  background-color: #1b5b4f;
+}
+
+.btn-register {
+  background-color: #4000ff;
+}
+
+.btn-logout {
+  background-color: #4000ff;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.btn-navbar-right {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -18px !important;
+  height: 70px;
+  border-radius: 0;
+}
